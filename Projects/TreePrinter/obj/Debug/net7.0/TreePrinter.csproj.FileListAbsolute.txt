@@ -1,0 +1,15 @@
+/Users/kash/Projects/TreePrinter/bin/Debug/net7.0/TreePrinter
+/Users/kash/Projects/TreePrinter/bin/Debug/net7.0/TreePrinter.deps.json
+/Users/kash/Projects/TreePrinter/bin/Debug/net7.0/TreePrinter.runtimeconfig.json
+/Users/kash/Projects/TreePrinter/bin/Debug/net7.0/TreePrinter.dll
+/Users/kash/Projects/TreePrinter/bin/Debug/net7.0/TreePrinter.pdb
+/Users/kash/Projects/TreePrinter/obj/Debug/net7.0/TreePrinter.csproj.AssemblyReference.cache
+/Users/kash/Projects/TreePrinter/obj/Debug/net7.0/TreePrinter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kash/Projects/TreePrinter/obj/Debug/net7.0/TreePrinter.AssemblyInfoInputs.cache
+/Users/kash/Projects/TreePrinter/obj/Debug/net7.0/TreePrinter.AssemblyInfo.cs
+/Users/kash/Projects/TreePrinter/obj/Debug/net7.0/TreePrinter.csproj.CoreCompileInputs.cache
+/Users/kash/Projects/TreePrinter/obj/Debug/net7.0/TreePrinter.dll
+/Users/kash/Projects/TreePrinter/obj/Debug/net7.0/refint/TreePrinter.dll
+/Users/kash/Projects/TreePrinter/obj/Debug/net7.0/TreePrinter.pdb
+/Users/kash/Projects/TreePrinter/obj/Debug/net7.0/TreePrinter.genruntimeconfig.cache
+/Users/kash/Projects/TreePrinter/obj/Debug/net7.0/ref/TreePrinter.dll
